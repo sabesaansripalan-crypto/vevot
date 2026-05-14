@@ -1,2 +1,2 @@
-# vevot
-emoce website
+# Velvet Vogue 
+Ecommerce website
